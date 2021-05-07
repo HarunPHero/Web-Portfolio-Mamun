@@ -1,0 +1,107 @@
+body{
+  margin: 0px;
+}
+h1{
+  font-size: 40px;
+  
+}
+.blue-Highlight{
+    color:rgb(25, 50, 192)
+}
+.half-width{
+  width: 40%;
+  float:left;
+  margin-left:5px;
+  padding-left:5%;
+  
+}
+.top{
+  background-image: url("IMG/top-banner.png");
+  background-repeat: no-repeat;
+ 
+}
+section{
+    height:450px;
+    padding-bottom: 200px;
+   
+}
+.link-button{
+  border-radius: 20px;
+  text-decoration: none;
+  background-image:linear-gradient(rgb(5, 141, 5),rgb(228, 228, 13),rgb(11, 80, 228),red);
+  padding: 10px 20px;
+  color:rgb(0, 0, 0);
+  font-weight: 500%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Mamun{
+  background-image: url("img/dream-bg.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  padding-bottom: 2%;
+  
+}
+
+.half-width-2{
+  width: 40%;
+  float:left;
+  margin-left:25px;
+  padding-left:2%;
+ border-radius: 5%;
+ height: 85%;
+ box-shadow: 10px 10px 20px gray;
+ 
+}
+.baby-web{
+  width: 40%;
+  float:left;
+  margin-left:90px;
+  padding-left:2%;
+ border-radius: 5%;
+ height: 85%;
+ box-shadow: 10px 10px 20px gray;
+ 
+}
+.expreience{
+  background-image: url("img/exp-bg.png");
+  background-repeat: no-repeat;
+  background-position: left;
+}
+#design{
+  border-left:8px solid;
+  border-image: linear-gradient(Lightsalmon,rgb(226, 75, 48));
+  border-image-slice: 1;
+ 
+}
+#design-2{
+  border-left:8px solid;
+  border-image: linear-gradient(red,orange,yellow,green,blue,indigo,violet);
+  border-image-slice: 1;
+ 
+}
+.Introduction{
+text-decoration: none;
+color: black;
+}
+#sadiq{
+  border-radius: 20px;
+  border-color: black;
+  margin-left: 40%;
+  text-decoration: none;
+  background-image:linear-gradient(rgb(220, 221, 220),rgba(245, 245, 239, 0.932),rgb(213, 216, 221),rgb(255, 255, 255));
+  padding: 10px 20px;
+  color:rgb(0, 0, 0);
+  font-weight: 500%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ms{
+  background-color: rgb(254, 253, 255);
+}
+
