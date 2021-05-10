@@ -18,6 +18,8 @@ h1{
 .top{
   background-image: url("IMG/top-banner.png");
   background-repeat: no-repeat;
+  padding: 10px 2px 2px;
+ 
  
 }
 section{
@@ -102,6 +104,6 @@ color: black;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .ms{
-  background-color: rgb(254, 253, 255);
+  background-color: rgb(255, 255, 255);
 }
 
