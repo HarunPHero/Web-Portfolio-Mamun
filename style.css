@@ -6,7 +6,8 @@ h1{
   
 }
 .blue-Highlight{
-    color:rgb(25, 50, 192)
+    color:rgb(25, 50, 192);
+    font-family:  Arial, Helvetica, sans-serif;
 }
 .half-width{
   width: 40%;
@@ -18,7 +19,7 @@ h1{
 .top{
   background-image: url("IMG/top-banner.png");
   background-repeat: no-repeat;
-  padding: 10px 2px 2px;
+  padding-bottom: 18%;
  
  
 }
@@ -34,7 +35,8 @@ section{
   padding: 10px 20px;
   color:rgb(0, 0, 0);
   font-weight: 500%;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Arial, Helvetica, sans-serif ;
+  font-weight: 700;
 }
 h2{
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -100,10 +102,15 @@ color: black;
   background-image:linear-gradient(rgb(220, 221, 220),rgba(245, 245, 239, 0.932),rgb(213, 216, 221),rgb(255, 255, 255));
   padding: 10px 20px;
   color:rgb(0, 0, 0);
-  font-weight: 500%;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 550;
+  
 }
 .ms{
   background-color: rgb(255, 255, 255);
 }
+.ow{
+  padding-bottom: 30%;
+}
+
 
